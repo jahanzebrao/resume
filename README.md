@@ -84,7 +84,7 @@
 <body>
     <div class="container">
         <header>
-            <img src="profile.jpg" alt="Jahanzeb Rao" class=""C:\Users\ICS\Desktop\WhatsApp Image 2024-07-20 at 12.40.01_efc09fca.jpg"">
+            <img src="C:\Users\ICS\Desktop\WhatsApp Image 2024-07-20 at 12.40.01_efc09fca.jpg" alt="Jahanzeb Rao" class="profile.pic">
             <h1>Jahanzeb Rao</h1>
             <p>Web Developer</p>
             <p>I'm best in problem solving, also a creative mind</p>
