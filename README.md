@@ -105,7 +105,8 @@
 <body>
     <div class="container">
         <header>
-            <img src="<img src="https://drive.google.com/uc?export=view&id=1nnFb75kLd1Uml-EkArRQSjcc9_TusG4r" alt="Profile Picture">
+           <img src="https://drive.google.com/uc?export=view&id=1nnFb75kLd1Uml-EkArRQSjcc9_TusG4r" alt="Profile Picture">
+
 " class="profile-pic">
             <h1>Jahanzeb Rao</h1>
             <p>Web Developer</p>
