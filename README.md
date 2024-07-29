@@ -59,6 +59,10 @@
 
         section {
             margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
         }
 
         section h2 {
@@ -91,17 +95,6 @@
             padding: 5px 10px;
             border-radius: 4px;
         }
-
-        ul {
-            list-style-type: disc;
-            margin: 0;
-            padding-left: 20px;
-            color: #555;
-        }
-
-        ul li {
-            margin: 5px 0;
-        }
     </style>
 </head>
 <body>
@@ -119,18 +112,14 @@
         <section>
             <h2>Education</h2>
             <div class="section-content">
-                <ul>
-                    <li><strong>Fsc (Pre-Engineering)</strong><br>Cadet College Jhelum<br>2018 - 2020</li>
-                    <li><strong>BS (Computer Science)</strong><br>Comsats University Islamabad, Vehari Campus<br>2020 - Present</li>
-                </ul>
+                <p><strong>Fsc (Pre-Engineering)</strong><br>Cadet College Jhelum<br>2018 - 2020</p>
+                <p><strong>BS (Computer Science)</strong><br>Comsats University Islamabad, Vehari Campus<br>2020 - Present</p>
             </div>
         </section>
         <section>
             <h2>Work Experience</h2>
             <div class="section-content">
-                <ul>
-                    <li><strong>Freshener</strong><br>AMB Web + App<br>Working on final year project provided by Comsats University Islamabad, Vehari Campus</li>
-                </ul>
+                <p><strong>Freshener</strong><br>AMB Web + App<br>Working on final year project provided by Comsats University Islamabad, Vehari Campus</p>
             </div>
         </section>
         <section>
@@ -149,28 +138,20 @@
         <section>
             <h2>Personal Projects</h2>
             <div class="section-content">
-                <ul>
-                    <li><strong>AMB Application + Web</strong><br>02/2024 - Present<br>Worked on web front end and app under coding</li>
-                </ul>
+                <p><strong>AMB Application + Web</strong><br>02/2024 - Present<br>Worked on web front end and app under coding</p>
             </div>
         </section>
         <section>
             <h2>Languages</h2>
             <div class="section-content">
-                <ul>
-                    <li><strong>English:</strong> Full Professional Proficiency</li>
-                    <li><strong>Urdu:</strong> Native or Bilingual Proficiency</li>
-                </ul>
+                <p><strong>English:</strong> Full Professional Proficiency</p>
+                <p><strong>Urdu:</strong> Native or Bilingual Proficiency</p>
             </div>
         </section>
         <section>
             <h2>Interests</h2>
             <div class="section-content">
-                <ul>
-                    <li>Traveling</li>
-                    <li>Doing something unique</li>
-                    <li>Technology-based activities</li>
-                </ul>
+                <p>Traveling, Doing something unique, Technology-based activities</p>
             </div>
         </section>
     </div>
