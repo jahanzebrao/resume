@@ -24,11 +24,8 @@
         }
 
         header {
-            background-color: #0073b1;
-            color: #fff;
-            padding: 20px;
-            border-radius: 8px;
             text-align: center;
+            margin-bottom: 20px;
         }
 
         header .profile-pic {
@@ -36,32 +33,28 @@
             height: 150px;
             border-radius: 50%;
             object-fit: cover;
-            border: 4px solid #fff;
+            border: 2px solid #0073b1;
             margin: 0 auto;
         }
 
         header h1 {
             margin: 10px 0 5px;
             font-size: 2.5em;
+            color: #333;
         }
 
         header p {
             margin: 5px 0;
+            color: #555;
         }
 
         header a {
-            color: #fff;
+            color: #0073b1;
             text-decoration: none;
         }
 
         header a:hover {
             text-decoration: underline;
-        }
-
-        header hr {
-            border: 0;
-            border-top: 1px solid #fff;
-            margin: 20px 0;
         }
 
         section {
@@ -112,18 +105,14 @@
 <body>
     <div class="container">
         <header>
-            <img src="profile.jpg" alt="Jahanzeb Rao" class="profile-pic">
+            <img src="https://example.com/your-image.jpg" alt="Jahanzeb Rao" class="profile-pic">
             <h1>Jahanzeb Rao</h1>
             <p>Web Developer</p>
             <p>I'm best in problem solving, also a creative mind</p>
-            <p><a href="mailto:jahanzebrao5115@gmail.com">jahanzebrao5115@gmail.com</a></p>
+            <a href="mailto:jahanzebrao5115@gmail.com">jahanzebrao5115@gmail.com</a>
             <p>+923060927846</p>
             <p>Daak Khana Khas Chak No 46 WB Tehsil, District Vehari, Vehari, Pakistan</p>
-            <hr>
-            <p>
-                <a href="https://linkedin.com/in/jahanzeb-rao-5ba15428b" target="_blank">LinkedIn</a> | 
-                <a href="https://github.com/jahanzebrao" target="_blank">GitHub</a>
-            </p>
+            <p><a href="https://linkedin.com/in/jahanzeb-rao-5ba15428b" target="_blank">LinkedIn</a> | <a href="https://github.com/jahanzebrao" target="_blank">GitHub</a></p>
         </header>
         <section>
             <h2>Education</h2>
@@ -142,3 +131,47 @@
                 </ul>
             </div>
         </section>
+        <section>
+            <h2>Skills</h2>
+            <div class="skills-box section-content">
+                <span class="skill">HTML</span>
+                <span class="skill">CSS</span>
+                <span class="skill">JavaScript</span>
+                <span class="skill">Flutter</span>
+                <span class="skill">Guest Posting</span>
+                <span class="skill">Python (Basic)</span>
+                <span class="skill">C++ (Basic)</span>
+                <span class="skill">SQL</span>
+            </div>
+        </section>
+        <section>
+            <h2>Personal Projects</h2>
+            <div class="section-content">
+                <ul>
+                    <li><strong>AMB Application + Web</strong><br>02/2024 - Present<br>Worked on web front end and app under coding</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>Languages</h2>
+            <div class="section-content">
+                <ul>
+                    <li><strong>English:</strong> Full Professional Proficiency</li>
+                    <li><strong>Urdu:</strong> Native or Bilingual Proficiency</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>Interests</h2>
+            <div class="section-content">
+                <ul>
+                    <li>Traveling</li>
+                    <li>Doing something unique</li>
+                    <li>Technology-based activities</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+s
