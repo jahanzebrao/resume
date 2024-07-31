@@ -73,7 +73,7 @@
             <h2>Dear [Name],</h2>
             <p>Wishing you a fantastic birthday filled with happiness and joy!</p>
             <div class="birthday-images">
-                <img src="https://via.placeholder.com/400x300" alt="Birthday Image 1">
+                <img src="https://drive.google.com/file/d/1nnFb75kLd1Uml-EkArRQSjcc9_TusG4r/view?usp=sharing" alt="Birthday Image 1">
                 <img src="https://via.placeholder.com/400x300" alt="Birthday Image 2">
                 <img src="https://via.placeholder.com/400x300" alt="Birthday Image 3">
             </div>
