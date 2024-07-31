@@ -73,7 +73,7 @@
             <h2>Dear [White Berry],</h2>
             <p>Wishing you a fantastic birthday filled with happiness and joy!</p>
             <div class="birthday-images">
-                <img src="<img src="https://drive.google.com/uc?id=1ICBexWas2rJY0X0kZq9qp-ELmY-WD7M4" alt=>"
+                <img src="<img src="https://drive.google.com/thumbnail?id=1ICBexWas2rJY0X0kZq9qp-ELmY-WD7M4&sz=w-h" alt="">"
                 <img src="https://drive.google.com/file/d/1nnFb75kLd1Uml-EkArRQSjcc9_TusG4r/view?usp=sharing">
                 <img src="https://drive.google.com/file/d/1nnFb75kLd1Uml-EkArRQSjcc9_TusG4r/view?usp=sharing">
             </div>
