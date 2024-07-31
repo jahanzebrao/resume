@@ -80,7 +80,7 @@
         </section>
     </main>
     <footer>
-        <p>© 2024 Birthday Wishing Website</p>
+        <p>© bandria</p>
     </footer>
 </body>
 </html>
